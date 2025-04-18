@@ -1,4 +1,4 @@
-# Tech GF - Discord AI Companion Bot
+# MegBae - Discord AI Companion Bot
 
 ![Bot Status](https://img.shields.io/badge/status-online-brightgreen)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
