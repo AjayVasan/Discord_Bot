@@ -93,14 +93,6 @@ You can customize the bot's personality by modifying:
 - The flirty personality is designed to be playful and tasteful, not explicit
 - Responses are AI-generated and should be treated as such
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue on GitHub.
-
 ## 👨‍💻 Author
 
 - [Ajay Vasan](https://github.com/AjayVasan)
@@ -110,3 +102,11 @@ Contributions are welcome! Feel free to submit a pull request or open an issue o
 - Mistral AI for the base language model
 - Hugging Face for model hosting
 - The Discord.py team
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue on GitHub.
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
