@@ -1,0 +1,3 @@
+!pip install -q discord.py transformers accelerate bitsandbytes
+!pip install --upgrade sympy
+!pip install --upgrade transformer
